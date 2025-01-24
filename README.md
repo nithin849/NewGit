@@ -1,0 +1,2 @@
+# NewGit
+Learning git commands
